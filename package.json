@@ -1,0 +1,20 @@
+{
+  "name": "samsungocean_jornadafullstack_ago22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodten23/SamsungOcean_JornadaFullStack-Jogo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodten23/SamsungOcean_JornadaFullStack-Jogo/issues"
+  },
+  "homepage": "https://github.com/rodten23/SamsungOcean_JornadaFullStack-Jogo#readme"
+}
